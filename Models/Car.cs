@@ -28,24 +28,32 @@ namespace TaskForInheritanceMethod.Models
         public double Drive(double Distance) 
         {
             double ReqGasoline = Distance * FuelFor1Km;
-             
-            if (FuelCapacity >= CurrentFuel && CurrentFuel >= ReqGasoline) 
+            if ( FuelCapacity >=0 && CurrentFuel >= 0 && FuelFor1Km >= 0  )
             {
-                
-                return CurrentFuel - ReqGasoline;
-            }
-            else if (FuelCapacity<CurrentFuel) 
-            {
-                Console.Write("Current fuel cannot be more than capacity");
+                if (FuelCapacity >= CurrentFuel && CurrentFuel >= ReqGasoline)
+                {
 
-                return FuelCapacity; 
+                    return CurrentFuel - ReqGasoline;
+                }
+                else if (FuelCapacity < CurrentFuel)
+                {
+                    Console.Write("Current fuel cannot be more than capacity");
+
+                    return FuelCapacity;
+                }
+                else
+                {
+
+                    Console.Write("It will be stopped cause it can't be continue driving: ");
+                    return CurrentFuel;
+                }
             }
             else 
             {
-
-                Console.Write("It will be stopped cause it can't be continue driving: " );
-                return CurrentFuel;
+                Console.Write("Capacity and current of fuel cannot be less than 0: " + CurrentFuel +" ");
+                return FuelCapacity; 
             }
+            
 
             
         } 

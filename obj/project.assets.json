@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TaskForInheritanceMethod\\TaskForInheritanceMethod.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Документы\\Code Academy\\Homeworks c# tasks\\C# Tasks-5\\TaskForInheritanceMethod\\TaskForInheritanceMethod.csproj",
       "projectName": "TaskForInheritanceMethod",
-      "projectPath": "C:\\Users\\User\\source\\repos\\TaskForInheritanceMethod\\TaskForInheritanceMethod.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Документы\\Code Academy\\Homeworks c# tasks\\C# Tasks-5\\TaskForInheritanceMethod\\TaskForInheritanceMethod.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\TaskForInheritanceMethod\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Документы\\Code Academy\\Homeworks c# tasks\\C# Tasks-5\\TaskForInheritanceMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

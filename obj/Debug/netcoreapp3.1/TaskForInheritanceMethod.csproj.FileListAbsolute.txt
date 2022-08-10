@@ -12,3 +12,17 @@ C:\Users\User\source\repos\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\Task
 C:\Users\User\source\repos\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.dll
 C:\Users\User\source\repos\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.pdb
 C:\Users\User\source\repos\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\bin\Debug\netcoreapp3.1\TaskForInheritanceMethod.exe
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\bin\Debug\netcoreapp3.1\TaskForInheritanceMethod.deps.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\bin\Debug\netcoreapp3.1\TaskForInheritanceMethod.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\bin\Debug\netcoreapp3.1\TaskForInheritanceMethod.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\bin\Debug\netcoreapp3.1\TaskForInheritanceMethod.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\bin\Debug\netcoreapp3.1\TaskForInheritanceMethod.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-5\TaskForInheritanceMethod\obj\Debug\netcoreapp3.1\TaskForInheritanceMethod.genruntimeconfig.cache
